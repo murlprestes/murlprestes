@@ -1,6 +1,6 @@
 Oii eu sou o Murilo Prestes, estudante de programação e Tecnologia
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true">!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
