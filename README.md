@@ -8,8 +8,9 @@ Oii eu sou o Murilo Prestes, estudante de programação e Tecnologia
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Murilo coding" height ="100em" width="100em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV4d2YxbjR4ZGlvbmN6bjU5ZmpqdHRuaWs1OHRsNndmMGhmaTlxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+  <img align="right" alt="Murilo coding" height ="120em" width="120em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV4d2YxbjR4ZGlvbmN6bjU5ZmpqdHRuaWs1OHRsNndmMGhmaTlxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 </div><br>
+<br>
 <div> 
   <a href="https://instagram.com/mu.prestes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
