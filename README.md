@@ -1,6 +1,6 @@
 Oii eu sou o Murilo Prestes, estudante de programação e Tecnologia
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlprestes&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlprestes&theme=react_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <div> 
