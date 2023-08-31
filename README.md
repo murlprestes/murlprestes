@@ -8,7 +8,7 @@ Oii eu sou o Murilo Prestes, estudante de programação e Tecnologia
 </div>
 
 <div style="display: inline_block"><br>
-  <img  height ="60em" width="60em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV4d2YxbjR4ZGlvbmN6bjU5ZmpqdHRuaWs1OHRsNndmMGhmaTlxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+  <img  height ="80em" width="80em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV4d2YxbjR4ZGlvbmN6bjU5ZmpqdHRuaWs1OHRsNndmMGhmaTlxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 </div>
 
 <div> 
