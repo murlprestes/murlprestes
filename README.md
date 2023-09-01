@@ -3,8 +3,8 @@ Oii eu sou o Murilo Prestes, estudante de programação e Tecnologia
 
 <div>
  <a href="https://github.com/murlprestes">
-<img height ="180em"src="https://github-readme-stats.vercel.app/api?username=murlprestes&show_icons=true&theme=react">
-<img height ="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=murlprestes&layout=compact&theme=react">
+<img height ="150em"src="https://github-readme-stats.vercel.app/api?username=murlprestes&show_icons=true&theme=react">
+<img height ="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=murlprestes&layout=compact&theme=react">
 </div>
 
 <div style="display: inline_block"><br>
