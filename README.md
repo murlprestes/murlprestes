@@ -7,9 +7,7 @@ Oii eu sou o Murilo Prestes, estudante de programação e Tecnologia
 <img height ="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=murlprestes&layout=compact&theme=react">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Murilo coding" height ="180em" width="180em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV4d2YxbjR4ZGlvbmN6bjU5ZmpqdHRuaWs1OHRsNndmMGhmaTlxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
-</div><br>
+
 <br>
 <div> 
   <a href="https://instagram.com/mu.prestes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
